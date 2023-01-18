@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Чипсы lays",
+      "img": "https://icf.listex.info/med/90adbfcc-4a5b-2d3a-4371-0590e84b3d11.jpg",
+      "price": 63,
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "name": "Coca-Cola",
+      "img": "https://icf.listex.info/med/5d4c4af8-ea53-62cc-253b-78248da48158.jpg",
+      "price": 70,
+      "quantity": 3
+    },
+    {
+      "id": 3,
+      "name": "Choco-pie",
+      "img": "http://cdn.shopify.com/s/files/1/0582/1779/1697/products/Chocopie6pcs.jpg?v=1643798089",
+      "price": 56,
+      "quantity": 15
+    },
+    {
+      "id": 4,
+      "name": "Яблочный сок",
+      "img": "https://cdn1.ozone.ru/multimedia/1019634453.jpg",
+      "price": 200,
+      "quantity": 5
+    },
+    {
+      "id": 5,
+      "name": "Шоколад",
+      "img": "https://www.valor.es/wp-content/uploads/2016/05/puro-0.png",
+      "price": 350,
+      "quantity": 10
+    },
+    {
+      "id": 6,
+      "name": "Pringles",
+      "img": "https://www.jiomart.com/images/product/original/491129204/pringles-original-potato-crisps-107-g-product-images-o491129204-p491129204-0-202212131030.jpg",
+      "price": 550,
+      "quantity": 3
+    },
+    {
+      "id": 7,
+      "name": "Хлеб",
+      "img": "https://cdn.metro-cc.ru/ru/ru_pim_44512001001_01.png",
+      "price": 80,
+      "quantity": 10
+    },
+    {
+      "id": 8,
+      "name": "Кофе",
+      "img": "https://vn.all.biz/img/vn/catalog/16177.jpg",
+      "price": 250,
+      "quantity": 4
+    }
+  ]
+}
